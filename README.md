@@ -26,7 +26,7 @@ The challenge addressed in this project is:
 The dataset consists of residential housing data with multiple feature types, including:
 
 * Numerical variables (e.g., area, number of rooms, construction year)
-* Categorical variables (e.g., neighborhood, building type, sale condition)
+* Categorical variables (e.g., neighborhood, building type, sale condition, garage; yes or no)
 * Binary indicators derived from categorical encoding
 
 Extensive preprocessing was required to convert raw data into a model-ready format, including:
